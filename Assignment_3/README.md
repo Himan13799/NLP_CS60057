@@ -10,9 +10,10 @@ https://competitions.codalab.org/competitions/15705
 
 You may use the trial data provided in the codalab page (also attached here for convenience).
 
+http://alt.qcri.org/semeval2017/task7/data/uploads/semeval2017_task7.tar.xz
+
 As usual you are required to submit codes. Please also include a readme file with instructions on how to run your code.
 
-http://alt.qcri.org/semeval2017/task7/data/uploads/semeval2017_task7.tar.xz
 
 
 # RUN
