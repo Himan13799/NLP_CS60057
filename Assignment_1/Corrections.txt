@@ -1,0 +1,160 @@
+Wrong word: lei4dui4		Correct word: wei4dui4		Edit Distance: 1
+
+Wrong word: you3zhu4		Correct word: you3shu4		Edit Distance: 1
+
+Wrong word: wei4shen2me5wo3men5		Correct word: wei2shen2me5		Edit Distance: 8
+
+Wrong word: huan2jing4		Correct word: hui2jing4		Edit Distance: 2
+
+Wrong word: que4mei2		Correct word: zuo4mei2		Edit Distance: 2
+
+Wrong word: zhe4ge4zhou1		Correct word: zheng4zhou1		Edit Distance: 2
+
+Wrong word: quan2jia1		Correct word: yuan1jia1		Edit Distance: 2
+
+Wrong word: du4jia3cun1		Correct word: bu4li3cun1		Edit Distance: 3
+
+Wrong word: lv4wu2		Correct word: yi4wu2		Edit Distance: 2
+
+Wrong word: san4wen2		Correct word: san3wen2		Edit Distance: 1
+
+Wrong word: yu3qin1qi1		Correct word: qin1qi1		Edit Distance: 3
+
+Wrong word: wei4zuo4zhe3		Correct word: zhi4zao4zhe3		Edit Distance: 3
+
+Wrong word: mei3ling2		Correct word: mei3ming2		Edit Distance: 1
+
+Wrong word: tou1lan3		Correct word: you2lan3		Edit Distance: 2
+
+Wrong word: a5		Correct word: la5		Edit Distance: 1
+
+Wrong word: men5neng2		Correct word: men2feng2		Edit Distance: 2
+
+Wrong word: liao2jie3		Correct word: tiao2jie3		Edit Distance: 1
+
+Wrong word: shang4fa1		Correct word: zhang4fu1		Edit Distance: 2
+
+Wrong word: huan1qing4		Correct word: quan1ding4		Edit Distance: 2
+
+Wrong word: chuan1yi1fu2		Correct word: chuan1yi1		Edit Distance: 3
+
+Wrong word: jiu4gan3		Correct word: xiu4guan3		Edit Distance: 2
+
+Wrong word: shang4xiao4che1		Correct word: shang4xiao4		Edit Distance: 4
+
+Wrong word: nv3hai2		Correct word: nuu3hai2		Edit Distance: 2
+
+Wrong word: zhuang1rong2		Correct word: zheng1rong2		Edit Distance: 2
+
+Wrong word: hou4shi4lian3		Correct word: gu4shi4pian4		Edit Distance: 4
+
+Wrong word: yun1hong2		Correct word: yin1hong2		Edit Distance: 1
+
+Wrong word: kan4zhu4		Correct word: zan4zhu4		Edit Distance: 1
+
+Wrong word: zuan1shi2		Correct word: zuan4shi2		Edit Distance: 1
+
+Wrong word: shi4zhu4		Correct word: shi4zhi4		Edit Distance: 1
+
+Wrong word: xiao3niao3tuo2		Correct word: xiao3niao3		Edit Distance: 4
+
+Wrong word: yong4li4di4		Correct word: yong4li4		Edit Distance: 3
+
+Wrong word: pai1dong4		Correct word: kai1dong4		Edit Distance: 1
+
+Wrong word: bu4bei4		Correct word: yu4bei4		Edit Distance: 1
+
+Wrong word: qiang2feng1juan3		Correct word: qing1feng1xian4		Edit Distance: 5
+
+Wrong word: qing2ren2jie2		Correct word: ping2gen1xie2		Edit Distance: 4
+
+Wrong word: hui4dai4		Correct word: hui4dui4		Edit Distance: 1
+
+Wrong word: hua1dian4		Correct word: shu1dian4		Edit Distance: 2
+
+Wrong word: peng4qiao3		Correct word: zheng4qiao3		Edit Distance: 2
+
+Wrong word: hua1dian4		Correct word: shu1dian4		Edit Distance: 2
+
+Wrong word: hui4rang4		Correct word: tui4rang4		Edit Distance: 1
+
+Wrong word: tiao1xuan3		Correct word: tiao3xuan3		Edit Distance: 1
+
+Wrong word: min2gui1hua1		Correct word: mei2gui1hua1		Edit Distance: 2
+
+Wrong word: zai4gong1		Correct word: wai4gong1		Edit Distance: 1
+
+Wrong word: huan4guo4		Correct word: zhuan3guo4		Edit Distance: 2
+
+Wrong word: zai4bao3		Correct word: zhi4bao3		Edit Distance: 1
+
+Wrong word: zuo4shang4		Correct word: zuo3shang4		Edit Distance: 1
+
+Wrong word: xiao4zhu4		Correct word: xiao3zhu4		Edit Distance: 1
+
+Wrong word: bu4dan4		Correct word: fu4dan4		Edit Distance: 1
+
+Wrong word: ze2fa2		Correct word: zhe2fu2		Edit Distance: 2
+
+Wrong word: hai2zi3		Correct word: hai2zi5		Edit Distance: 1
+
+Wrong word: huan2cheng1zan4		Correct word: huan2cheng2lu4		Edit Distance: 4
+
+Wrong word: you4ci4		Correct word: you4ce4		Edit Distance: 1
+
+Wrong word: nong2zhuang1li3		Correct word: hong2shuang1xi3		Edit Distance: 3
+
+Wrong word: men5lai2zhuang1		Correct word: wen2zhuang1		Edit Distance: 5
+
+Wrong word: re4ai4ni2﹖		Correct word: re4qing2		Edit Distance: 6
+
+Wrong word: zai4zhe4		Correct word: zai4zhe3		Edit Distance: 1
+
+Wrong word: nan2nv3		Correct word: nan2yi3		Edit Distance: 2
+
+Wrong word: xi4sheng1		Correct word: xi4cheng1		Edit Distance: 1
+
+Wrong word: dui4wo3shuo1		Correct word: xiao3shuo1		Edit Distance: 4
+
+Wrong word: ri4xin1		Correct word: xi4xin1		Edit Distance: 1
+
+Wrong word: yue4yi4		Correct word: yu4yi4		Edit Distance: 1
+
+Wrong word: duan4jin4		Correct word: zuan4jin4		Edit Distance: 1
+
+Wrong word: xin1nian2		Correct word: xin1tian2		Edit Distance: 1
+
+Wrong word: lian2huan1hui4		Correct word: lin2suan1gai4		Edit Distance: 4
+
+Wrong word: li3ling2yue1		Correct word: li3long2cun1		Edit Distance: 3
+
+Wrong word: ding4zhe4		Correct word: ding4zhi4		Edit Distance: 1
+
+Wrong word: ge4zhou1		Correct word: ke4zhou1		Edit Distance: 1
+
+Wrong word: bian1chu1xian4		Correct word: qian1chui2xian4		Edit Distance: 3
+
+Wrong word: tuo2ru2ci3		Correct word: you2ci3		Edit Distance: 4
+
+Wrong word: xing2wei4		Correct word: xing4wei4		Edit Distance: 1
+
+Wrong word: tuo2dan1		Correct word: luo2dan1		Edit Distance: 1
+
+Wrong word: wei4shen2me5		Correct word: wei2shen2me5		Edit Distance: 1
+
+Wrong word: tuo1zhu4		Correct word: zhuo1zhu4		Edit Distance: 2
+
+Wrong word: shen1zi3		Correct word: shen1zi5		Edit Distance: 1
+
+Wrong word: zhe4dong4		Correct word: zhen4dong4		Edit Distance: 1
+
+Wrong word: yao4dao3		Correct word: yao4hao3		Edit Distance: 1
+
+Wrong word: chang2zai4pin2		Correct word: fang3zhi4pin3		Edit Distance: 5
+
+Wrong word: huan2shi4chang2		Correct word: jun1shi4chang2		Edit Distance: 3
+
+Wrong word: cui4lv4		Correct word: tui4lu4		Edit Distance: 2
+
+Wrong word: rang4du2		Correct word: wang4zu2		Edit Distance: 2
+
